@@ -1,0 +1,15 @@
+.vs/
+.git/
+
+bin/
+obj/
+Debug/
+Release/
+
+.paket/
+paket-files/
+
+
+
+.fake
+.ionide

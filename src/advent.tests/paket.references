@@ -1,0 +1,8 @@
+nuget xunit.core
+  
+nuget xunit.abstractions
+nuget xunit.runner.visualstudio
+
+nuget FsUnit
+nuget FsUnit.xUnit
+
